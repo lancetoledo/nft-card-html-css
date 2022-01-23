@@ -53,9 +53,9 @@ h3 {
     color: white;
 }
 
-/* .content p {
+.content p {
     color: hsla(0, 0%, 100%, 0.849);
-  } */
+  }
 
 .info {
     display: flex;
